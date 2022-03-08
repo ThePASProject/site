@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Nơi hội tụ những con người đam mê công nghệ</description>
-	<lastBuildDate>Mon, 28 Feb 2022 03:31:35 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 07 Mar 2022 04:33:32 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,10 +28,330 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Big Data sử dụng trong ngành sản xuất</title>
+		<link>/2022/03/01/big-data-su-dung-trong-nganh-san-xuat/</link>
+		
+		<dc:creator><![CDATA[The PAS Project]]></dc:creator>
+		<pubDate>Tue, 01 Mar 2022 15:13:46 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=536</guid>
+
+					<description><![CDATA[Cuộc cách mạng kỹ thuật số đã biến đổi ngành sản xuất. Các nhà sản xuất hiện đang tìm ra những cách mới để khai thác tất cả dữ liệu mà họ tạo ra nhằm cải thiện hiệu quả hoạt động, hợp lý hóa các quy trình kinh doanh và khám phá những thông tin &#8230; <a href="/2022/03/01/big-data-su-dung-trong-nganh-san-xuat/" class="more-link">Continue reading <span class="screen-reader-text">Big Data sử dụng trong ngành sản xuất</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p class="has-medium-font-size">Cuộc cách mạng kỹ thuật số đã biến đổi ngành sản xuất. Các nhà sản xuất hiện đang tìm ra những cách mới để khai thác tất cả dữ liệu mà họ tạo ra nhằm cải thiện hiệu quả hoạt động, hợp lý hóa các quy trình kinh doanh và khám phá những thông tin chi tiết có giá trị sẽ thúc đẩy lợi nhuận và tăng trưởng.</p>
+
+
+
+<p class="has-vivid-red-color has-text-color has-medium-font-size"><strong>Bảo trì tiên đoán (Predictive Maintenance)</strong></p>
+
+
+
+<p class="has-medium-font-size">Dữ liệu lớn có thể giúp dự đoán lỗi thiết bị. Các vấn đề tiềm ẩn có thể được phát hiện bằng cách phân tích cả dữ liệu có cấu trúc (năm thiết bị, kiểu dáng và kiểu máy) và dữ liệu đa cấu trúc (mục nhật ký, dữ liệu cảm biến, thông báo lỗi, nhiệt độ động cơ và các yếu tố khác). Với dữ liệu này, các nhà sản xuất có thể tối đa hóa thời gian hoạt động của các bộ phận và thiết bị cũng như triển khai bảo trì với chi phí hiệu quả hơn.</p>
+
+
+
+<p class="has-medium-font-size">Dữ liệu này có thể được sử dụng để dự đoán nhiều hơn sự cố thiết bị. Đối với nhiều quy trình sản xuất, điều quan trọng là phải dự đoán tuổi thọ tối ưu còn lại của các hệ thống và thành phần để đảm bảo rằng chúng hoạt động trong phạm vi thông số kỹ thuật. Ví dụ: trong quá trình sản xuất thuốc, một thành phần bị lỗi, nhưng vẫn còn chức năng, có thể đưa quá nhiều hoặc quá ít thành phần hoạt chất.</p>
+
+
+
+<p class="has-medium-font-size"><strong>Những khó khăn</strong></p>
+
+
+
+<p class="has-medium-font-size">Các công ty phải tích hợp dữ liệu đến từ các định dạng khác nhau và xác định các tín hiệu sẽ dẫn đến việc tối ưu hóa việc bảo trì.</p>
+
+
+
+<p class="has-vivid-red-color has-text-color has-medium-font-size"><strong>Hiệu quả hoạt động</strong></p>
+
+
+
+<p class="has-medium-font-size">Hiệu quả hoạt động là một trong những lĩnh vực mà dữ liệu lớn có thể có tác động nhiều nhất đến lợi nhuận. Với dữ liệu lớn, bạn có thể phân tích và đánh giá quy trình sản xuất, chủ động trả lời phản hồi của khách hàng và dự đoán nhu cầu trong tương lai.</p>
+
+
+
+<p class="has-medium-font-size"><strong>Những khó khăn</strong></p>
+
+
+
+<p class="has-medium-font-size">Nhóm dữ liệu phải cân bằng khối lượng dữ liệu với số lượng nguồn, người dùng và ứng dụng ngày càng tăng.</p>
+
+
+
+<p class="has-vivid-red-color has-text-color has-medium-font-size"><strong>Tối ưu hóa sản xuất</strong></p>
+
+
+
+<p class="has-medium-font-size">Tối ưu hóa dây chuyền sản xuất có thể giảm chi phí và tăng doanh thu. Dữ liệu lớn có thể giúp các nhà sản xuất hiểu được dòng chảy của các mặt hàng thông qua dây chuyền sản xuất của họ và xem lĩnh vực nào có thể được hưởng lợi. Phân tích dữ liệu sẽ tiết lộ những bước nào dẫn đến tăng thời gian sản xuất và những khu vực nào đang gây ra sự chậm trễ.</p>
+
+
+
+<p class="has-medium-font-size"><strong>Những khó khăn</strong></p>
+
+
+
+<p class="has-medium-font-size">Tối ưu hóa sản xuất đòi hỏi các nhà sản xuất phải phân tích dữ liệu thiết bị sản xuất, việc sử dụng nguyên vật liệu và các yếu tố khác. Việc kết hợp các loại dữ liệu khác nhau có thể gây ra một thách thức.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Big Data sử dụng trong ngành bán lẻ</title>
+		<link>/2022/03/01/big-data-su-dung-trong-nganh-ban-le/</link>
+		
+		<dc:creator><![CDATA[The PAS Project]]></dc:creator>
+		<pubDate>Tue, 01 Mar 2022 15:12:32 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=533</guid>
+
+					<description><![CDATA[Các cuộc cạnh tranh ngày càng gay gắt trong lĩnh vực bán lẻ. Để dẫn đầu, các công ty luôn cố gắng tạo sự khác biệt. Dữ liệu lớn đang được sử dụng trong tất cả các giai đoạn của quy trình bán lẻ — từ dự đoán sản phẩm đến dự báo nhu cầu &#8230; <a href="/2022/03/01/big-data-su-dung-trong-nganh-ban-le/" class="more-link">Continue reading <span class="screen-reader-text">Big Data sử dụng trong ngành bán lẻ</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p class="has-drop-cap has-medium-font-size">Các cuộc cạnh tranh ngày càng gay gắt trong lĩnh vực bán lẻ. Để dẫn đầu, các công ty luôn cố gắng tạo sự khác biệt. Dữ liệu lớn đang được sử dụng trong tất cả các giai đoạn của quy trình bán lẻ — từ dự đoán sản phẩm đến dự báo nhu cầu đến tối ưu hóa tại cửa hàng. Sử dụng dữ liệu lớn, các nhà bán lẻ đang tìm ra những cách thức mới để đổi mới.</p>
+
+
+
+<p class="has-vivid-red-color has-text-color has-medium-font-size"><strong>Phát triển sản phẩm</strong></p>
+
+
+
+<p class="has-medium-font-size">Dữ liệu lớn có thể giúp bạn dự đoán nhu cầu của khách hàng. Bằng cách phân loại các thuộc tính chính của các sản phẩm trước đây và hiện tại, sau đó mô hình hóa mối quan hệ giữa các thuộc tính đó và thành công thương mại của các sản phẩm, bạn có thể xây dựng các mô hình dự đoán cho các sản phẩm và dịch vụ mới. Tìm hiểu sâu hơn bằng cách sử dụng dữ liệu và phân tích từ các nhóm tập trung, phương tiện truyền thông xã hội, thị trường thử nghiệm và triển khai sớm tại cửa hàng để lập kế hoạch, sản xuất và tung ra sản phẩm mới.</p>
+
+
+
+<p class="has-medium-font-size"><strong>Những khó khăn</strong></p>
+
+
+
+<p class="has-medium-font-size">Các công ty sẽ phải phân tích những gì có thể là một khối lượng lớn dữ liệu đến ở các định dạng khác nhau, và sau đó tạo các phân khúc theo hành vi của khách hàng. Họ cũng sẽ phải xác định các mô hình và hành vi sử dụng phức tạp và mang đến các dịch vụ mới tiềm năng.</p>
+
+
+
+<p class="has-vivid-red-color has-text-color has-medium-font-size"><strong>Trải nghiệm của khách hàng</strong></p>
+
+
+
+<p class="has-medium-font-size">Cuộc đua giành khách hàng đang diễn ra. Dữ liệu lớn cung cấp cho các nhà bán lẻ cái nhìn rõ ràng hơn về trải nghiệm khách hàng mà họ có thể sử dụng để tinh chỉnh hoạt động của mình. Bằng cách thu thập dữ liệu từ phương tiện truyền thông xã hội, lượt truy cập web, nhật ký cuộc gọi và các tương tác khác của công ty cũng như các nguồn dữ liệu khác, các công ty có thể cải thiện tương tác của khách hàng và tối đa hóa giá trị được cung cấp. Phân tích dữ liệu lớn có thể được sử dụng để cung cấp các ưu đãi được cá nhân hóa, giảm bớt tình trạng gián đoạn của khách hàng và chủ động xử lý các vấn đề.</p>
+
+
+
+<p class="has-medium-font-size"><strong>Những khó khăn</strong></p>
+
+
+
+<p class="has-medium-font-size">Việc tích hợp một khối lượng lớn dữ liệu từ nhiều nguồn khác nhau có thể khó khăn. Sau khi dữ liệu được tích hợp, phân tích nhánh có thể được sử dụng để xác định các đường dẫn trải nghiệm và tương quan chúng với các nhóm hành vi khác nhau.</p>
+
+
+
+<p class="has-vivid-red-color has-text-color has-medium-font-size"><strong>Gía trị lâu dài của khách hàng</strong></p>
+
+
+
+<p class="has-medium-font-size">Tất cả các khách hàng đều có giá trị. Nhưng một số có giá trị hơn những người khác. Dữ liệu lớn cung cấp cho bạn thông tin chi tiết về hành vi và cách chi tiêu của khách hàng, vì vậy bạn có thể xác định những khách hàng tốt nhất của mình. Một khi bạn biết họ là ai, hoạt động tiếp thị có thể nhắm mục tiêu đến họ với những ưu đãi đặc biệt. Nhóm bán hàng có thể dành nhiều thời gian hơn cho họ. Dịch vụ khách hàng có thể hoạt động chủ động hơn nếu họ có thể rời đi.</p>
+
+
+
+<p class="has-medium-font-size"><strong>Những khó khăn</strong></p>
+
+
+
+<p class="has-medium-font-size">Để xác định những khách hàng có giá trị cao, bạn sẽ cần phải phân tích một lượng lớn dữ liệu giao dịch của khách hàng và tạo ra các mô hình phức tạp để kiểm tra hành vi trong quá khứ và dự đoán các hành động trong tương lai.</p>
+
+
+
+<p class="has-vivid-red-color has-text-color has-medium-font-size"><strong>Trải nghiệm mua sắm tại cửa hàng</strong></p>
+
+
+
+<p class="has-medium-font-size">Dữ liệu lớn có thể được sử dụng để cải thiện trải nghiệm tại cửa hàng. Nhiều nhà bán lẻ đang bắt đầu phân tích dữ liệu từ các ứng dụng dành cho thiết bị di động, mua hàng tại cửa hàng và vị trí địa lý để tối ưu hóa việc bán hàng và khuyến khích khách hàng hoàn tất việc mua hàng.</p>
+
+
+
+<p class="has-medium-font-size"><strong>Những khó khăn</strong></p>
+
+
+
+<p class="has-medium-font-size">Cần có đồ thị phức tạp và phân tích nhánh (hay đường dẫn) để xác định lối mua hàng và hành vi của khách hàng. Dữ liệu này sau đó phải được tương quan và kết hợp với nhiều bộ dữ liệu để phân tích chính xác hành vi của cửa hàng.</p>
+
+
+
+<p class="has-vivid-red-color has-text-color has-medium-font-size"><strong>Phân tích và tối ưu hóa giá cả</strong></p>
+
+
+
+<p class="has-medium-font-size">Các nhà bán lẻ cần biết khả năng sinh lời thực sự của khách hàng, cách phân khúc thị trường và tiềm năng của bất kỳ cơ hội nào trong tương lai. Phân tích lợi nhuận và lợi nhuận từ đầu đến cuối có thể giúp xác định các cơ hội cải thiện giá cả và các khu vực có thể bị rò rỉ lợi nhuận.</p>
+
+
+
+<p class="has-medium-font-size"><strong>Những khó khắn </strong></p>
+
+
+
+<p class="has-medium-font-size">Để phân tích chính xác dữ liệu giá cả, các nhà bán lẻ cần quản lý hàng triệu dữ liệu giao dịch và làm việc với nhiều loại tập dữ liệu khác nhau.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Big Data và nghề Data Scientist</title>
+		<link>/2022/03/01/big-data-va-nghe-data-scientist/</link>
+		
+		<dc:creator><![CDATA[The PAS Project]]></dc:creator>
+		<pubDate>Tue, 01 Mar 2022 15:05:40 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=528</guid>
+
+					<description><![CDATA[Fun fact về ngành Big Data Big Data là gì? Big Data là tập hợp dữ liệu lớn (cấu trúc, nửa cấu trúc và phi cấu trúc), đa dạng, thay đổi nhanh và phức tạp đến nỗi những công nghệ hay phần mềm truyền thống không có khả năng xử lý trong một khoảng thời &#8230; <a href="/2022/03/01/big-data-va-nghe-data-scientist/" class="more-link">Continue reading <span class="screen-reader-text">Big Data và nghề Data Scientist</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p class="has-vivid-red-color has-text-color has-large-font-size"><strong>Fun fact về ngành Big Data</strong></p>
+
+
+
+<p class="has-vivid-red-color has-text-color has-medium-font-size">Big Data là gì?</p>
+
+
+
+<p class="has-drop-cap has-medium-font-size">Big Data là tập hợp dữ liệu lớn (cấu trúc, nửa cấu trúc và phi cấu trúc), đa dạng, thay đổi nhanh và phức tạp đến nỗi những công nghệ hay phần mềm truyền thống không có khả năng xử lý trong một khoảng thời gian nhất định. Tuy nhiên, Big Data không có định nghĩa duy nhất. Chẳng hạn, IBM (International Business Machines Corporation) định nghĩa Big Data bằng 4 chữ V, bao gồm: </p>
+
+
+
+<ul class="has-medium-font-size"><li><strong>Volume:</strong>&nbsp;Khối lượng dữ liệu</li><li><strong>Velocity:</strong>&nbsp;Tốc độ của dữ liệu</li><li><strong>Variety:</strong>&nbsp;Sự đa dạng của dữ liệu</li><li><strong>Veracity:</strong>&nbsp;Tính xác thực của dữ liệu</li></ul>
+
+
+
+<p class="has-medium-font-size">Khối lượng chính xác của Big Data không phải là vấn đề quan trọng (có thể là vài petabyte hoặc exabyte), nhưng nếu biết khai thác đúng hướng thì Big Data sẽ mang lại tiềm lực cảnh tranh lớn cho doanh nghiệp. </p>
+
+
+
+<p class="has-medium-font-size">Hiện nay, Big Data không chỉ là sự cần thiết nữa mà đã là &#8220;xương sống&#8221; của hầu hết các công ty công nghệ. Ví dụ: mỗi sản phẩm có mặt trên các website thương mại điện tử như Tiki, Lazada, Sendo,&#8230; đều là Big Data.</p>
+
+
+
+<p class="has-medium-font-size">Các công ty truyền thống cũng dùng Big Data để tối ưu hoạt đông kinh doanh, chăm sóc khách hàng, phục vụ cho công tác Marketing,&#8230;</p>
+
+
+
+<p class="has-vivid-red-color has-text-color has-medium-font-size">Những khó khăn khi làm việc với Big Data là gì?</p>
+
+
+
+<p class="has-medium-font-size">Khi làm việc với Big Data, những khó khăn lớn có thể phải gặp: </p>
+
+
+
+<ul class="has-medium-font-size"><li><strong>Chất lượng dữ liệu không được đảm bảo</strong></li></ul>
+
+
+
+<p class="has-text-align-center has-medium-font-size">Trong quá trình làm việc với Big Data, giai đoạn thu nhập và xử lý dữ liệu là phẩn việc tốn nhiều thời gian và công sức nhất. Qúa trình đó cần sự hợp tác của rất nhiều bộ phận khác nhau dẫn đến các nguồn dữ liệu không nhất quán và chất lượng dữ liệu không tốt. </p>
+
+
+
+<ul class="has-medium-font-size"><li><strong>Kết quả triển khai không như ý</strong></li></ul>
+
+
+
+<p class="has-text-align-center has-medium-font-size">Sai lầm dễ mắc phải nhất chính là đánh giá và triển khai kết quả dựa trên dữ liệu đã thu thập và xử lý. Nhiều khi dân kỹ thuật thường đặt ra các tiêu chí theo lý thuyết hoặc theo các case study có sẵn nhưng nó lại không phù hợp với quy trình kinh doanh thực tế.</p>
+
+
+
+<p class="has-vivid-red-color has-text-color has-large-font-size"><strong>Nghề &#8220;làm&#8221; Big Data là gì? Là Data Scientist!!!</strong></p>
+
+
+
+<p class="has-vivid-red-color has-text-color has-medium-font-size">Công việc hằng ngày của một Data Scientist</p>
+
+
+
+<p class="has-medium-font-size">Những bước trong công việc hằng ngày của một Data Scientist: </p>
+
+
+
+<ul class="has-medium-font-size"><li>Phân tích bài toán cần giải, mục tiêu dự án, tiêu chí thành công…</li><li>Thu thập và xử lý dữ liệu</li><li>Xây dựng các mô hình, thuật toán để đưa ra kết quả</li><li>Test, đánh giá kết quả</li><li>Đưa vào triển khai</li></ul>
+
+
+
+<p class="has-medium-font-size">Ở bước triển khai, công ty sẽ dùng các kết quả, dự đoán, đề xuất… được rút ra từ dữ liệu để đưa vào các hoạt động kinh doanh, marketing.</p>
+
+
+
+<p class="has-vivid-red-color has-text-color has-medium-font-size">Những kỹ năng cần thiết để trở thành Data Scientist</p>
+
+
+
+<ul class="has-medium-font-size"><li>Kỹ năng đầu tiên mà bạn cần đương nhiên phải là lập trình. Bạn nên học ngôn ngữ lập trình Python</li><li>Ngoài Python, còn có&nbsp;SQL, Spark, R hoặc các công cụ cấp cao hơn như là H2O, Tableau</li><li>Các công cụ của Data Scientist: Numpy, Pandas, Matplotlib, Scikit-learn</li><li>Các công cụ Machine Learning: Tensorflow, Keras, Pytorch</li><li>Hiểu biết nhất định về Big Data, về các framework như Hadoop hay Scala</li><li>Thống kê cơ bản</li></ul>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>LỊCH SỬ RA ĐỜI CỦA MÁY TÍNH (PHẦN 2)</title>
+		<link>/2022/03/01/lich-su-ra-doi-cua-may-tinh-phan-2/</link>
+		
+		<dc:creator><![CDATA[The PAS Project]]></dc:creator>
+		<pubDate>Tue, 01 Mar 2022 11:26:21 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=503</guid>
+
+					<description><![CDATA[Những sáng chế vĩ đại Khác biệt với phần thứ 1 thì phần 2 này sẽ mang đến cho chúng ta những thông tin quan trọng có thể khiến là mắt chữ A và khẩu hình chữ Ê. Phần này có khả năng được xem như những phát minh mang tầm cách mạng, đồng thời &#8230; <a href="/2022/03/01/lich-su-ra-doi-cua-may-tinh-phan-2/" class="more-link">Continue reading <span class="screen-reader-text">LỊCH SỬ RA ĐỜI CỦA MÁY TÍNH (PHẦN 2)</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p class="has-x-large-font-size"><strong><em>Những sáng chế vĩ đại</em></strong></p>
+
+
+
+<p class="has-drop-cap has-medium-font-size">Khác biệt với phần thứ 1 thì phần 2 này sẽ mang đến cho chúng ta những thông tin quan trọng có thể khiến là mắt chữ A và khẩu hình chữ Ê. Phần này có khả năng được xem như những phát minh mang tầm cách mạng, đồng thời đóng vai trò là nền tảng tạo nên cấu trúc và hình hài của máy tính ngày nay.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://pasprojecttk2021.files.wordpress.com/2022/01/272351717_121829797024020_7727605745262087404_n-2.jpg?w=830" alt=""/><figcaption><strong>William Shockley, John Vincent Atanasoff, Alan Turing và Vannevar Bush (từ trái qua phải)</strong></figcaption></figure>
+
+
+
+<p class="has-medium-font-size">Năm 1931, tại viện công nghệ Massachusetts,&nbsp;<a href="https://en.wikipedia.org/wiki/Vannevar_Bush">Vanneva Bush</a>&nbsp;đã phát minh và chế tạo ra máy phân tích vi sai, máy tính cơ học đa năng tự động quy mô lớn đầu tiên.</p>
+
+
+
+<p class="has-medium-font-size">Năm 1936,&nbsp;<a href="https://vi.wikipedia.org/wiki/Alan_Turing">Alan Turing</a>&nbsp;trình bày khái niệm về một cỗ máy vạn năng, sau này gọi là máy Turing, có khả năng tính toán bất cứ thứ gì có thể tính toán được. Khái niệm cốt lõi của máy tính hiện đại dựa trên ý tưởng này của ông.</p>
+
+
+
+<p class="has-medium-font-size">Năm 1937,&nbsp;<a href="https://vi.wikipedia.org/wiki/John_Vincent_Atanasoff">John Vincent Atanasoff</a>, giáo sư vật lý và toán học tại trường đại học Iowa, cố gắng chế tạo chiếc máy tính đầu tiên không có bánh răng, dây đai hoặc trục.</p>
+
+
+
+<p class="has-medium-font-size">Năm 1941, Atanasoff và sinh viên của ông, Clifford Berry, đã thiết kế một máy tính (còn được gọi là Atanasoff – Berry Computer) có thể giải quyết 29 phương trình đồng thời. Điều này đánh dấu sự kiện lần đầu tiên một máy tính có thể lưu trữ thông tin trên bô nhớ chính của nó và có khả năng thực hiện một thao tác sau 15 giây.</p>
+
+
+
+<p class="has-medium-font-size">Năm 1943 – 1945, hai giáo sư của Đại học Pennsylvania,&nbsp;<a href="https://en.wikipedia.org/wiki/John_Mauchly">John Mauchly</a>&nbsp;và&nbsp;<a href="https://en.wikipedia.org/wiki/J._Presper_Eckert">J. Presper Eckert</a>, đã xây dựng máy tính Electronic Numerical Integrator and Calculator (ENIAC). Được coi là “ông nội” của máy tính kỹ thuật số hiện đại, thân hình đồ sộ của nó chiếm hết một căn phòng với diện tích 6x12m, gồm 40 kệ cao 2,4m và có 18.000 ống chân không. Nó có khả năng xử lý 5.000 phép tính/một giây và hoạt động nhanh hơn bất cứ thiết bị nào trước đó.</p>
+
+
+
+<p class="has-medium-font-size">Năm 1946, Mauchly và Presper rời Đại học Pennsylvania và nhận tài trợ từ Cục điều tra dân số để xây dựng UNIVAC, máy tính thương mại đầu tiên cho các ứng dụng kinh doanh và cho chính phủ.</p>
+
+
+
+<p class="has-medium-font-size">Năm 1947,&nbsp;<a href="https://en.wikipedia.org/wiki/William_Shockley">William Shockley</a>,&nbsp;<a href="https://en.wikipedia.org/wiki/John_Bardeen">John Bardeen</a>&nbsp;và&nbsp;<a href="https://en.wikipedia.org/wiki/Walter_Houser_Brattain">Walter Brattain</a>&nbsp;của Bell Laboratory (Phòng thí nghiệm Bell) đã phát minh ra bóng bán dẫn. Họ đã phát hiện ra cách chế tạo một công tắc điện bằng vật liệu rắn và không cần chân không.</p>
+
+
+
+<p class="has-medium-font-size">Năm 1949, một nhóm nghiên cứu tại trường đại học Cambridge đã phát triển máy EDSAC (máy tính tự động lưu trữ độ trễ điện tử), máy tính thực tế có chương trình lưu trữ đầu tiên. EDSAC chạy chương trình đầu tiên vào tháng 5/1949 khi nó tính toán các bảng các số chính phương và một dãy các số nguyên tố. Vào tháng 11/1949, các nhà khoa học cùng với hội đồng nghiên cứu khoa học và công nghiệp (CSIR), nay gọi là là CSIRO, đã chế tạo máy tính kỹ thuật số đầu tiên của Úc. Đây là máy tính kĩ thuật số đầu tiên có thể chơi nhạc.</p>
+
+
+
+<p class="has-medium-font-size">The PAS Project – Awaken your dream</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>LỊCH SỬ RA ĐỜI CỦA MÁY TÍNH (PHẦN 3)</title>
 		<link>/2022/02/28/lich-su-ra-doi-cua-may-tinh-phan-3/</link>
 		
-		<dc:creator><![CDATA[thepasproject]]></dc:creator>
+		<dc:creator><![CDATA[The PAS Project]]></dc:creator>
 		<pubDate>Mon, 28 Feb 2022 01:22:02 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">/?p=469</guid>
@@ -109,71 +429,10 @@
 		
 			</item>
 		<item>
-		<title>LỊCH SỬ RA ĐỜI CỦA MÁY TÍNH (PHẦN 2)￼</title>
-		<link>/2022/02/28/lich-su-ra-doi-cua-may-tinh-phan-2%ef%bf%bc/</link>
-		
-		<dc:creator><![CDATA[thepasproject]]></dc:creator>
-		<pubDate>Mon, 28 Feb 2022 01:17:44 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=467</guid>
-
-					<description><![CDATA[Những sáng chế vĩ đại Khác biệt với phần thứ 1 thì phần 2 này sẽ mang đến cho chúng ta những thông tin quan trọng có thể khiến là mắt chữ A và khẩu hình chữ Ê. Phần này có khả năng được xem như những phát minh mang tầm cách mạng, đồng thời &#8230; <a href="/2022/02/28/lich-su-ra-doi-cua-may-tinh-phan-2%ef%bf%bc/" class="more-link">Continue reading <span class="screen-reader-text">LỊCH SỬ RA ĐỜI CỦA MÁY TÍNH (PHẦN 2)￼</span></a>]]></description>
-										<content:encoded><![CDATA[
-<p class="has-x-large-font-size"><strong><em>Những sáng chế vĩ đại</em></strong></p>
-
-
-
-<p class="has-drop-cap has-medium-font-size">Khác biệt với phần thứ 1 thì phần 2 này sẽ mang đến cho chúng ta những thông tin quan trọng có thể khiến là mắt chữ A và khẩu hình chữ Ê. Phần này có khả năng được xem như những phát minh mang tầm cách mạng, đồng thời đóng vai trò là nền tảng tạo nên cấu trúc và hình hài của máy tính ngày nay.</p>
-
-
-
-<figure class="wp-block-image"><img src="https://pasprojecttk2021.files.wordpress.com/2022/01/272351717_121829797024020_7727605745262087404_n-2.jpg?w=830" alt=""/><figcaption><strong>William Shockley, John Vincent Atanasoff, Alan Turing và Vannevar Bush (từ trái qua phải)</strong></figcaption></figure>
-
-
-
-<p class="has-medium-font-size">Năm 1931, tại viện công nghệ Massachusetts,&nbsp;<a href="https://en.wikipedia.org/wiki/Vannevar_Bush">Vanneva Bush</a>&nbsp;đã phát minh và chế tạo ra máy phân tích vi sai, máy tính cơ học đa năng tự động quy mô lớn đầu tiên.</p>
-
-
-
-<p class="has-medium-font-size">Năm 1936,&nbsp;<a href="https://vi.wikipedia.org/wiki/Alan_Turing">Alan Turing</a>&nbsp;trình bày khái niệm về một cỗ máy vạn năng, sau này gọi là máy Turing, có khả năng tính toán bất cứ thứ gì có thể tính toán được. Khái niệm cốt lõi của máy tính hiện đại dựa trên ý tưởng này của ông.</p>
-
-
-
-<p class="has-medium-font-size">Năm 1937,&nbsp;<a href="https://vi.wikipedia.org/wiki/John_Vincent_Atanasoff">John Vincent Atanasoff</a>, giáo sư vật lý và toán học tại trường đại học Iowa, cố gắng chế tạo chiếc máy tính đầu tiên không có bánh răng, dây đai hoặc trục.</p>
-
-
-
-<p class="has-medium-font-size">Năm 1941, Atanasoff và sinh viên của ông, Clifford Berry, đã thiết kế một máy tính (còn được gọi là Atanasoff – Berry Computer) có thể giải quyết 29 phương trình đồng thời. Điều này đánh dấu sự kiện lần đầu tiên một máy tính có thể lưu trữ thông tin trên bô nhớ chính của nó và có khả năng thực hiện một thao tác sau 15 giây.</p>
-
-
-
-<p class="has-medium-font-size">Năm 1943 – 1945, hai giáo sư của Đại học Pennsylvania,&nbsp;<a href="https://en.wikipedia.org/wiki/John_Mauchly">John Mauchly</a>&nbsp;và&nbsp;<a href="https://en.wikipedia.org/wiki/J._Presper_Eckert">J. Presper Eckert</a>, đã xây dựng máy tính Electronic Numerical Integrator and Calculator (ENIAC). Được coi là “ông nội” của máy tính kỹ thuật số hiện đại, thân hình đồ sộ của nó chiếm hết một căn phòng với diện tích 6x12m, gồm 40 kệ cao 2,4m và có 18.000 ống chân không. Nó có khả năng xử lý 5.000 phép tính/một giây và hoạt động nhanh hơn bất cứ thiết bị nào trước đó.</p>
-
-
-
-<p class="has-medium-font-size">Năm 1946, Mauchly và Presper rời Đại học Pennsylvania và nhận tài trợ từ Cục điều tra dân số để xây dựng UNIVAC, máy tính thương mại đầu tiên cho các ứng dụng kinh doanh và cho chính phủ.</p>
-
-
-
-<p class="has-medium-font-size">Năm 1947,&nbsp;<a href="https://en.wikipedia.org/wiki/William_Shockley">William Shockley</a>,&nbsp;<a href="https://en.wikipedia.org/wiki/John_Bardeen">John Bardeen</a>&nbsp;và&nbsp;<a href="https://en.wikipedia.org/wiki/Walter_Houser_Brattain">Walter Brattain</a>&nbsp;của Bell Laboratory (Phòng thí nghiệm Bell) đã phát minh ra bóng bán dẫn. Họ đã phát hiện ra cách chế tạo một công tắc điện bằng vật liệu rắn và không cần chân không.</p>
-
-
-
-<p class="has-medium-font-size">Năm 1949, một nhóm nghiên cứu tại trường đại học Cambridge đã phát triển máy EDSAC (máy tính tự động lưu trữ độ trễ điện tử), máy tính thực tế có chương trình lưu trữ đầu tiên. EDSAC chạy chương trình đầu tiên vào tháng 5/1949 khi nó tính toán các bảng các số chính phương và một dãy các số nguyên tố. Vào tháng 11/1949, các nhà khoa học cùng với hội đồng nghiên cứu khoa học và công nghiệp (CSIR), nay gọi là là CSIRO, đã chế tạo máy tính kỹ thuật số đầu tiên của Úc. Đây là máy tính kĩ thuật số đầu tiên có thể chơi nhạc.</p>
-
-
-
-<p class="has-medium-font-size">The PAS Project – Awaken your dream</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
 		<title>LỊCH SỬ RA ĐỜI CỦA MÁY TÍNH (PHẦN 1)</title>
 		<link>/2022/02/27/lich-su-ra-doi-cua-may-tinh-phan-1/</link>
 		
-		<dc:creator><![CDATA[thepasproject]]></dc:creator>
+		<dc:creator><![CDATA[The PAS Project]]></dc:creator>
 		<pubDate>Sun, 27 Feb 2022 12:32:19 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">/?p=385</guid>
@@ -234,7 +493,7 @@
 		<title>NĂM VÙNG KIẾN THỨC TRONG NGÀNH KHOA HỌC MÁY TÍNH</title>
 		<link>/2022/02/27/nam-vung-kien-thuc-trong-nganh-khoa-hoc-may-tinh/</link>
 		
-		<dc:creator><![CDATA[thepasproject]]></dc:creator>
+		<dc:creator><![CDATA[The PAS Project]]></dc:creator>
 		<pubDate>Sun, 27 Feb 2022 12:12:31 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">/?p=322</guid>
@@ -321,7 +580,7 @@
 		<title>KHOA HỌC MÁY TÍNH</title>
 		<link>/2022/02/27/khoa-hoc-may-tinh/</link>
 		
-		<dc:creator><![CDATA[thepasproject]]></dc:creator>
+		<dc:creator><![CDATA[The PAS Project]]></dc:creator>
 		<pubDate>Sun, 27 Feb 2022 07:30:09 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">/?p=216</guid>
@@ -362,7 +621,7 @@
 
 
 
-<figure class="wp-block-image"><img src="https://pasprojecttk2021.files.wordpress.com/2022/01/267626951_108706028336397_8681854216222241128_n-2-1.jpg?w=543" alt="This image has an empty alt attribute; its file name is 267626951_108706028336397_8681854216222241128_n-2-1.jpg"/></figure>
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://pasprojecttk2021.files.wordpress.com/2022/01/267626951_108706028336397_8681854216222241128_n-2-1.jpg?w=543" alt="This image has an empty alt attribute; its file name is 267626951_108706028336397_8681854216222241128_n-2-1.jpg"/></figure></div>
 
 
 
@@ -374,7 +633,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img src="https://pasprojecttk2021.files.wordpress.com/2022/01/269553099_108706228336377_8157439210380817966_n-2.jpg?w=543" alt="" class="wp-image-104"/></figure>
+<div class="wp-block-image"><figure class="aligncenter size-large"><img src="https://pasprojecttk2021.files.wordpress.com/2022/01/269553099_108706228336377_8157439210380817966_n-2.jpg?w=543" alt="" class="wp-image-104"/></figure></div>
 
 
 
@@ -386,7 +645,7 @@
 
 
 
-<figure class="wp-block-image"><img src="https://pasprojecttk2021.files.wordpress.com/2022/01/268962136_108706135003053_8383748133978703534_n-2.jpg?w=543" alt="This image has an empty alt attribute; its file name is 268962136_108706135003053_8383748133978703534_n-2.jpg"/></figure>
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://pasprojecttk2021.files.wordpress.com/2022/01/268962136_108706135003053_8383748133978703534_n-2.jpg?w=543" alt="This image has an empty alt attribute; its file name is 268962136_108706135003053_8383748133978703534_n-2.jpg"/></figure></div>
 
 
 
@@ -414,7 +673,7 @@
 
 
 
-<div class="wp-container-621c427fa08df wp-block-group"><div class="wp-block-group__inner-container">
+<div class="wp-container-62277fe775aef wp-block-group"><div class="wp-block-group__inner-container">
 <p class="has-medium-font-size">(Đúng) Lập trình trò chơi riêng của bạn</p>
 
 
